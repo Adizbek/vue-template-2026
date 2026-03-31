@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "skills": {
+    "shadcn-vue": {
+      "source": "noartem/laravel-vue-skills",
+      "sourceType": "github",
+      "computedHash": "a8e014ad458a7b0967c97540e46e8565cda8c98eb66300e8f6d73d5c0313991d"
+    },
+    "tailwindcss-advanced-layouts": {
+      "source": "josiahsiegel/claude-plugin-marketplace",
+      "sourceType": "github",
+      "computedHash": "bf3eb96bcdcceb54cf2c0ba01daa18275c169627f37f5a861490c78e8055a5ce"
+    },
+    "tanstack-query-best-practices": {
+      "source": "deckardger/tanstack-agent-skills",
+      "sourceType": "github",
+      "computedHash": "addf4358803d7746f7fe0475a3370d835775217e00dd5fc7bbd8a7d6c53d81e5"
+    },
+    "tanstack-vue-query-skilld": {
+      "source": "harlan-zw/vue-ecosystem-skills",
+      "sourceType": "github",
+      "computedHash": "930b3d0d34dbac17cf34ae8dfd3be584a333e2b902bf960f4e00027d5ff6fbc2"
+    },
+    "ui-ux-pro-max": {
+      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "sourceType": "github",
+      "computedHash": "6337038fe1fe6bbe1b9f252ab678ee575859190bab6f0f246f4061824eb40875"
+    },
+    "vue-best-practices": {
+      "source": "hyf0/vue-skills",
+      "sourceType": "github",
+      "computedHash": "21132f6c11c765bd11d0d6ad081122dd858630073e2123b651e58f17b399b131"
+    },
+    "vueuse-functions": {
+      "source": "antfu/skills",
+      "sourceType": "github",
+      "computedHash": "5189e448e981e42e2153c1b5e8d19e51b01e642c2357ab0f2892c4d8b50ba2b5"
+    }
+  }
+}
